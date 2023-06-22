@@ -1,0 +1,9 @@
+{
+  "actions": {
+    "idle": {
+      "frame num": 11,
+      "path": "./data/images/animations/intro/pika/",
+      "delay": 12 
+    }
+  }
+}

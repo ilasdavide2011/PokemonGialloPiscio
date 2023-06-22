@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="File di origine">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="File di risorse">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="File di intestazione\engine">
+      <UniqueIdentifier>{eeab2780-50a8-49d0-8c5c-d3cfd7dda947}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di intestazione\engine\components">
+      <UniqueIdentifier>{b8ee60a4-9272-45a9-9176-214c2e534cbf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di intestazione\engine\utils">
+      <UniqueIdentifier>{4218e642-183a-44ac-848e-c81c21833659}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="configs">
+      <UniqueIdentifier>{c1adecf3-7e83-4992-a97b-4132339d02b8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di intestazione\Scripts">
+      <UniqueIdentifier>{8e21b2aa-21cb-41d5-a3b1-a9d9b58c8940}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="File di intestazione\Scripts\IntroScene">
+      <UniqueIdentifier>{af643d74-44e7-4cb8-9bd0-0e350618c74e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="IntroScene.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="MainScene.h">
+      <Filter>File di intestazione</Filter>
+    </ClInclude>
+    <ClInclude Include="AnimatedSprite.h">
+      <Filter>File di intestazione\engine\components</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayUtils.h">
+      <Filter>File di intestazione\engine\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="FileUtils.h">
+      <Filter>File di intestazione\engine\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="GameObject.h">
+      <Filter>File di intestazione\engine\components</Filter>
+    </ClInclude>
+    <ClInclude Include="Renderer.h">
+      <Filter>File di intestazione\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>File di intestazione\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="Sprite.h">
+      <Filter>File di intestazione\engine\components</Filter>
+    </ClInclude>
+    <ClInclude Include="Script.h">
+      <Filter>File di intestazione\engine</Filter>
+    </ClInclude>
+    <ClInclude Include="logoScript.h">
+      <Filter>File di intestazione\Scripts\IntroScene</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Main.cpp">
+      <Filter>File di origine</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="windowSettings.json">
+      <Filter>configs</Filter>
+    </None>
+    <None Include="pikaAnimation.json">
+      <Filter>configs</Filter>
+    </None>
+  </ItemGroup>
+</Project>
