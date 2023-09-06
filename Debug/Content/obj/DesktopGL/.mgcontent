@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/fonts/PokemonDS.spritefont</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/0.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/1.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/10.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/11.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/2.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/3.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/4.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/5.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/6.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/7.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/8.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/animations/intro/pika/9.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/backgruond.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/ami.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/ConBong.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/ibee.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/lisoppo.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/lucky bee.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/merdone.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/ONI CAT.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/palette.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/PierGiorgio.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/silopp.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/g/ugo cock.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/GameMenu/bg.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/GameMenu/Pika.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/GameMenu/PlayButton.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/GameMenu/Title.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/intro/button.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/logo.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/splashScreen.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/tileset.png</File>
+    <File>D:/davide/dev/PokemonGialloPiscio/PokemonGialloPiscio/Content/images/ui/dialogs/basicDialog.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
